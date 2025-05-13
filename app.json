@@ -28,7 +28,12 @@
     ],
     "pages": [],
     "scripts": [],
-    "services": [],
+    "services": [
+      {
+        "id": "l9_djAi8hlacEJWUZBW2j",
+        "name": "aaa"
+      }
+    ],
     "stylesheets": []
   },
   "externalScripts": [],
