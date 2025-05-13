@@ -9,10 +9,31 @@
       "description": "",
       "type": "property",
       "value": ""
+    },
+    {
+      "name": "aaaa",
+      "description": "",
+      "type": "property",
+      "value": ""
+    },
+    {
+      "name": "bb",
+      "description": "",
+      "type": "method",
+      "body": "a",
+      "invokeOnLoad": false,
+      "isAsync": false,
+      "returnType": {
+        "name": "any"
+      },
+      "parameters": [],
+      "watch": []
     }
   ],
   "visible": [
-    "aaa"
+    "aaa",
+    "aaaa",
+    "bb"
   ],
   "parentDirectoryId": "l9_djAi8hlacEJWUZBW2j"
 }
