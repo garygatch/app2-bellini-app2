@@ -1,0 +1,41 @@
+{
+  "type": "custom-component",
+  "name": "c2",
+  "children": [
+    {
+      "name": "c1",
+      "nodeName": "c1",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "kuZemJ"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}
